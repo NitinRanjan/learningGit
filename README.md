@@ -1,1 +1,1 @@
-# learningGit
+# learningGit project
